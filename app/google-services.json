@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671790383978",
+    "project_id": "register-login-app-f2fb1",
+    "storage_bucket": "register-login-app-f2fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671790383978:android:a2bf2c38690e07d50b1b13",
+        "android_client_info": {
+          "package_name": "com.example.registerloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcNu5P2TmfdtlndrBX4eqnfXABBuH3pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
